@@ -4,7 +4,7 @@ import '../style/Register.css';
 function RegisterForm() {
 	return (
 		<div className="register-page">
-
+			{/* Header o day */}
 			<div className="registerContainer">
 
 				<form className="registerForm">
